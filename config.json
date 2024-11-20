@@ -2,5 +2,6 @@
     "server": "gyatt.cc",
     "home-timeline-length": 200,
     "max-followings": 80,
-    "from-notifications": 1
+    "from-notifications": 1,
+    "max-bookmarks": 80
   }
